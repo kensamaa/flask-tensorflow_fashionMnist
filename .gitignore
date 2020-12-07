@@ -1,3 +1,4 @@
-*.h5
+model.h5
+model1.h5
 /static/images/*
 test2.py
