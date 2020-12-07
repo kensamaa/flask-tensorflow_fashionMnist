@@ -13,6 +13,7 @@
   <li>creation des templates</li>
   <li> implementer le model </li>
   <li>creation des route</li>
+   <li>adding the folder static/images</li>
 </ul>
 
 <h2>screenshuts</h2>
